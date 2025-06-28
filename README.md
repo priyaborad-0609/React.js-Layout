@@ -16,3 +16,7 @@ Clean and minimal UI 🎨
 Fully mobile-friendly design 📲
 
 Easy to customize and extend 🔧
+
+#ReactJS #LayoutDesign #WebDevelopment #ResponsiveDesign #Frontend #UIUX #ReactComponents #OpenSource #CSSGrid #Flexbox
+
+VIDEO:https://drive.google.com/file/d/1aHOFprsKWsSegWN_o4-vmCCsL4G3Y_CN/view?usp=sharing
